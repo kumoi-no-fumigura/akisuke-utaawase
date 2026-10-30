@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/akisuke-utaawase",
  "yomi": "ちゅうぐうのすけあきすけけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（月・紅葉・恋）",
+  "era": "長承3年（1134）",
+  "author": "主催 藤原顕輔／判者 藤原基俊",
+  "desc": "中宮亮藤原顕輔の家で催された歌合。月・紅葉・恋の三題で、雅定・宗能・成道・顕仲・行宗・琳賢らが詠み、基俊が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
